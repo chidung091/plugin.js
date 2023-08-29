@@ -8,17 +8,16 @@
     "url": "git://github.com/crcn/plugin.js.git"
   },
   "dependencies": {
-    "dref": "0.0.x",
-    "underscore": "1.4.x",
     "async": "0.1.x",
+    "dref": "0.0.x",
     "outcome": "0.0.x",
-    "sift": "0.0.x",
-    "structr": "0.2.x",
     "resolve": "0.2.x",
+    "sift": "0.0.x",
     "step": "0.0.x",
-    "toarray": "0.0.x"
+    "structr": "0.2.x",
+    "toarray": "0.0.x",
+    "underscore": "^1.13.6"
   },
-  "devDependencies": {},
   "main": "./lib/node.js",
   "browserify": "./lib/web.js"
 }
